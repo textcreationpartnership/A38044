@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments reply to the Kings Majesties Answer to the petition to the House of Commons sent 29 Ianuary, 1641 wherein is exactly declared the mutuall conjoinment, agreement, concordance and concurrance of the Kings Majesty with the Parliament concerning the state and government of the whole Kingdome.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38044</idno><idno type="EEBO-CITATION">11204219</idno>
+  <idno type="VID">46734</idno>
+  <idno type="EEBO-PROQUEST">2240880804</idno>
+  
+            <idno type="STC">Wing E2143</idno>
+            <idno type="STC">ESTC R29763</idno>
+            <idno type="OCLC">11204219</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46734)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments reply to the Kings Majesties Answer to the petition to the House of Commons sent 29 Ianuary, 1641 wherein is exactly declared the mutuall conjoinment, agreement, concordance and concurrance of the Kings Majesty with the Parliament concerning the state and government of the whole Kingdome.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[5] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1603-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46734:1"/>
+            <pb facs="tcp:46734:1"/>
+            <p>THE PARLIAMENTS REPLY TO The Kings Majesties Answer to the Pe<g ref="char:EOLhyphen"/>tition to the House of Commons, sent 29 Ianuary. 1641.</p>
+            <p>Wherein is exactly declared the mutuall conjoinment, agreement, concordance, and con<g ref="char:EOLhyphen"/>currance of the Kings Majesty with the Parlia<g ref="char:EOLhyphen"/>ment concerning the State and govern<g ref="char:EOLhyphen"/>ment of the whole Kingdome.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46734:2"/>
+            <pb facs="tcp:46734:2"/>
+            <head>THE PARLIAMENTS Reply to the Kings Majesties an<g ref="char:EOLhyphen"/>swer to the Petition of the House of Commons, sent 29. Ian. 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE House of Commons having with aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctionate zeal to the publick good of this Kingdome, and loyall fidelity to the Imperiall Crowne, presented thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Petition to his M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>je<g ref="char:EOLhyphen"/>sty, and wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll receiving so gracious an answer to their Petition, doe withall obsequious hum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lity ac<g ref="char:EOLhyphen"/>cept the same with gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ude, and resp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctively doe thus reply to his M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sties answer to their Petition. Your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es good hopes that your graciou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mes<g ref="char:EOLhyphen"/>sag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the twentieth of this mon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h to both Houses, would have produced some such over<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur, which, by offering what is fit on our parts to doe and what is proper for your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty to grant, might <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> get a mutu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll confidence in each other: these (we s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y) good hopes of y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty are yet nei<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<g ref="char:EOLhyphen"/>str<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, nor scarce retarded for w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> endeav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with sedulou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diligence rather to stre<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>then an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> corro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, then in any wise to debil<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the sa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reci<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocall conjunction, and mutuall co-op<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ration.</p>
+            <pb facs="tcp:46734:3"/>
+            <p>Concerning the Tower of London, wee did greatly suspect that your Majesty having preferred a person of a fortune (though perhaps better known to your Majesty) yet unknowne to us, and the City, and in that regard of a questionable reputation to that trust, would be graciously pleased, and respe<g ref="char:EOLhyphen"/>ctively induced (and not thereunto pressed) to re<g ref="char:EOLhyphen"/>move him, many particular charges being there in agitation to be objected against him, and therefore we returne this answer, that if hereafter upon due examination many particulars shall be presented to your Majesty, whereby it shall appeare, that your Majesty was respectively mistaken in your good o<g ref="char:EOLhyphen"/>pinion of the Gentleman, and that he is suspected to be unfit for the trust committed to him, your Majesty will make no scruple in discharging him, for otherwise (wee acknowledge) your Majesty is obliged in justice to yourself to preserve your own worke, that your favour and good opinion may prove a great advantage, and the highest fortune to your servants without any other preferment, of which your Majesty needs not to doubt, but this House of Commons would have beene so imparti<g ref="char:EOLhyphen"/>ally t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder (as of all businesse wherein your Maje<g ref="char:EOLhyphen"/>sties honour is so much concerned) that if they had not found many materiall exceptions against his person, they would have rather endeavoured to satisfie and reforme the feares of other men, then (by complying with them) induce your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesty to any resolu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, which may seem so much to reflect upon your Honour and Iustice.</p>
+            <p>For the Forts and Castles of the Kingdome wee
+<pb facs="tcp:46734:3"/> are obsequiously most gratefull, that your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesty is so graciously resolved, that they sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lwaies be in such hands, and onely in such, as the Parlia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent may safely confide in; yet we were more sollici<g ref="char:EOLhyphen"/>tous for the common safety of the Realme, and therefore we presumed to elect deserving per<g ref="char:EOLhyphen"/>sons for the same; but withall (wee confess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) the nomination of any person to those places being so principall and inseparable a flower of your Crowne vested in you, and derived to you from your Ance<g ref="char:EOLhyphen"/>stors, by the fundamentall Laws of the Kingdome, you may reserve to your selfe; in bestowing where<g ref="char:EOLhyphen"/>of, as your Majesty will t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke care that no corrupt or sinister courses shall prevaile with you, so your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>jesty is graciously willing to declare that you will not bee induced to express<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that favour so soone to any one, as to those whose good demeanour sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll bee eminent to you, or your Parliament. And we are very respective to heare of your Majesties so gracious conjunction with us, wherein you de<g ref="char:EOLhyphen"/>clare, that if you have now or shall at any time by mis-information confer such trust upon an unde<g ref="char:EOLhyphen"/>serving person, you are, and alwaies will be ready to leave him to the Wisdome and Iustice of your Parliament.</p>
+            <p>As for our petitionary desire for the <hi>Militia</hi> of the Kingdome, your Majesty hath given us a most plenary and contentive Answer to the great satis<g ref="char:EOLhyphen"/>faction of us all (which <hi>Militia</hi> we likewise acknow<g ref="char:EOLhyphen"/>ledge, by the Law is subject to no comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd but of your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesty, and of authority lawfully derived from you) that when any particular course for or<g ref="char:EOLhyphen"/>dering
+<pb facs="tcp:46734:4"/> the same (which your Majesty, as is decla<g ref="char:EOLhyphen"/>red, holds very necessary for the peace and security of your Kingdome) sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll bee considered, (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesty hath expr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssed) and digested by you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Par<g ref="char:EOLhyphen"/>liament, and proposed to you, your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty will be pleased to returne such an Answer as shall be agree<g ref="char:EOLhyphen"/>able to your Honour, and the safety of your P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople: you have beene graciously pleased to answer us so fully in every particular proposition herein, that we are respectively satisfied. A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d wee doe moreover willingly subscribe to that, wherein your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty is resolved to impose the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction on our parts, but onely to deny those things, the granting whereof would alter the fundamentall Lawes, and endanger the very foundation, upon which the publike happi<g ref="char:EOLhyphen"/>nesse and welfare of your peo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le is founded, and constituted, and would nourish a greater and more destructive jealousie betwixt the Crowne and the Subjects, then any of these, which would seeme to bee taken away by such a satisf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction. And your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesty need not to doubt, or have the least dubi<g ref="char:EOLhyphen"/>tation, that your having granted more then ever King hath granted, will ever perswade your House of Commons to aske more then ever Subjects have asked. And wee most humbly gratifie your Maje<g ref="char:EOLhyphen"/>sty for your gracious solicitation for, and conjuncti<g ref="char:EOLhyphen"/>on with us, in that you have declared, that if wee shall acqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty with the particular grounds of our doub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and feares, you will very willingly apply remedies proportion<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll to those feares. For we call God to witnesse, that the invio<g ref="char:EOLhyphen"/>lation of your Imperiall Crowne, and the preserva<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:46734:4"/> of the publike peace, the Lawes and liberties of the Subjects, shall alwayes bee our chiefest care and industry, as of our owne lives, and the lives of our dearest friends. And therefore wee by all the Acts of Iustice and favour, that wee have received from you this P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliament, by our hopes of future happines in your Majesty, and in one anothers love of Religion, and peace of this Kingdome (in which that of Ireland shall not be forgotten) that wee will not be transported with jealousies, and apprehen<g ref="char:EOLhyphen"/>sions of possible dangers, to put our selves and your Majesty into reall and present inconveniences, but that we will speedily pursue the way proposed by your Majesties former message, which you in hu<g ref="char:EOLhyphen"/>mane reason are the onely way to compose, and both co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely to mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igate the distractions of the Kingdome, in a conjoyned concurrance of our de<g ref="char:EOLhyphen"/>terminations: and with Gods propitious blessings wee shall thereby restore a great measure of felicity to King, Parliament, and whole Realme.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
